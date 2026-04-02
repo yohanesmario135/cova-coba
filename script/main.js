@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Mbak Ull pengen ada musiknya ga ? Harus mau!!',
+        title: 'Hallo Sayang!!',
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
